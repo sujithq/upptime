@@ -1,20 +1,20 @@
 [
   {
-    "name": "Sujith",
+    "name": "Sujith Quintelier",
     "url": "https://sujithq.github.io",
     "icon": "https://icons.duckduckgo.com/ip3/sujithq.github.io.ico",
-    "slug": "sujith",
+    "slug": "sujith-quintelier",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 79,
-    "timeDay": 79,
-    "timeWeek": 79,
-    "timeMonth": 79,
-    "timeYear": 79,
+    "time": 156,
+    "timeDay": 156,
+    "timeWeek": 156,
+    "timeMonth": 156,
+    "timeYear": 156,
     "dailyMinutesDown": {}
   }
 ]
