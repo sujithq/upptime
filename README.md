@@ -8,6 +8,12 @@ This repository contains the open-source uptime monitor and status page for [Suj
 [![Static Site CI](https://github.com/sujithq/upptime/workflows/Static%20Site%20CI/badge.svg)](https://github.com/sujithq/upptime/actions?query=workflow%3A%22Static+Site+CI%22)
 [![Summary CI](https://github.com/sujithq/upptime/workflows/Summary%20CI/badge.svg)](https://github.com/sujithq/upptime/actions?query=workflow%3A%22Summary+CI%22)
 
+[![Update Template CI](https://github.com/sujithq/upptime/actions/workflows/update-template.yml/badge.svg)](https://github.com/sujithq/upptime/actions/workflows/update-template.yml)
+
+[![Updates CI](https://github.com/sujithq/upptime/actions/workflows/updates.yml/badge.svg)](https://github.com/sujithq/upptime/actions/workflows/updates.yml)
+
+[![Uptime CI](https://github.com/sujithq/upptime/actions/workflows/uptime.yml/badge.svg)](https://github.com/sujithq/upptime/actions/workflows/uptime.yml)
+
 With [Upptime](https://upptime.js.org), you can get your own unlimited and free uptime monitor and status page, powered entirely by a GitHub repository. We use [Issues](https://github.com/sujithq/upptime/issues) as incident reports, [Actions](https://github.com/sujithq/upptime/actions) as uptime monitors, and [Pages](https://sujithq.github.io/upptime) for the status page.
 
 <!--start: status pages-->
