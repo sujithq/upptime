@@ -22,18 +22,20 @@
     "url": "https://bdw.nu",
     "icon": "https://icons.duckduckgo.com/ip3/bdw.nu.ico",
     "slug": "bdw",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 338,
-    "timeDay": 541,
-    "timeWeek": 255,
-    "timeMonth": 265,
-    "timeYear": 338,
-    "dailyMinutesDown": {}
+    "time": 353,
+    "timeDay": 2450,
+    "timeWeek": 768,
+    "timeMonth": 393,
+    "timeYear": 353,
+    "dailyMinutesDown": {
+      "2024-04-15": 0
+    }
   },
   {
     "name": "My Energy",
