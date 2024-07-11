@@ -33,7 +33,7 @@ jobs:
           ref: ${{ github.head_ref }}
           token: ${{ secrets.GH_PAT || github.token }}
       - name: Update template
-        uses: sujithq/uptime-monitor@master
+        uses: upptime/uptime-monitor@v1.37.0
         with:
           command: "update-template"
         env:
@@ -62,7 +62,7 @@ jobs:
           command: "site"
         env:
           GH_PAT: ${{ secrets.GH_PAT || github.token }}
-      - uses: peaceiris/actions-gh-pages@v4.0.0
+      - uses: peaceiris/actions-gh-pages@v3.7.3
         name: GitHub Pages Deploy
         with:
           github_token: ${{ secrets.GH_PAT || github.token }}
