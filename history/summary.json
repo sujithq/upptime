@@ -22,19 +22,19 @@
     "url": "https://bdw.nu",
     "icon": "https://icons.duckduckgo.com/ip3/bdw.nu.ico",
     "slug": "bdw",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 340,
-    "timeDay": 173,
-    "timeWeek": 264,
-    "timeMonth": 318,
+    "timeDay": 190,
+    "timeWeek": 260,
+    "timeMonth": 315,
     "timeYear": 313,
     "dailyMinutesDown": {
-      "2025-02-06": 0
+      "2025-02-06": 13
     }
   },
   {
