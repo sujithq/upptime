@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 102,
-    "timeDay": 35,
-    "timeWeek": 105,
+    "timeDay": 122,
+    "timeWeek": 101,
     "timeMonth": 237,
     "timeYear": 108,
     "dailyMinutesDown": {}
@@ -24,18 +24,16 @@
     "slug": "bdw",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 340,
-    "timeDay": 190,
-    "timeWeek": 260,
-    "timeMonth": 315,
+    "timeDay": 288,
+    "timeWeek": 275,
+    "timeMonth": 322,
     "timeYear": 313,
-    "dailyMinutesDown": {
-      "2025-02-06": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "My Energy",
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 80,
-    "timeDay": 9,
-    "timeWeek": 69,
-    "timeMonth": 97,
+    "timeDay": 70,
+    "timeWeek": 51,
+    "timeMonth": 98,
     "timeYear": 80,
     "dailyMinutesDown": {}
   },
@@ -67,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 79,
-    "timeDay": 8,
-    "timeWeek": 64,
-    "timeMonth": 94,
+    "timeDay": 63,
+    "timeWeek": 41,
+    "timeMonth": 95,
     "timeYear": 79,
     "dailyMinutesDown": {}
   }
