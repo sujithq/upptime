@@ -9,10 +9,6 @@ sites:
     url: https://bdw.nu
   - name: My Energy
     url: https://sujithq.github.io/myenergy
-  - name: Certification Renewal
-    url: https://sujithq.github.io/cert-renewal
-
-
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
