@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 122,
-    "timeDay": 157,
-    "timeWeek": 141,
-    "timeMonth": 125,
+    "timeDay": 120,
+    "timeWeek": 134,
+    "timeMonth": 124,
     "timeYear": 134,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 341,
-    "timeDay": 431,
-    "timeWeek": 323,
-    "timeMonth": 400,
-    "timeYear": 343,
+    "time": 340,
+    "timeDay": 289,
+    "timeWeek": 301,
+    "timeMonth": 392,
+    "timeYear": 341,
     "dailyMinutesDown": {}
   },
   {
@@ -47,31 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 88,
-    "timeDay": 267,
-    "timeWeek": 146,
-    "timeMonth": 106,
-    "timeYear": 93,
+    "timeDay": 153,
+    "timeWeek": 132,
+    "timeMonth": 103,
+    "timeYear": 92,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Certification Renewal",
-    "url": "https://sujithq.github.io/cert-renewal",
-    "icon": "https://icons.duckduckgo.com/ip3/sujithq.github.io.ico",
-    "slug": "certification-renewal",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "75.35%",
-    "uptimeWeek": "96.48%",
-    "uptimeMonth": "99.19%",
-    "uptimeYear": "99.93%",
-    "time": 87,
-    "timeDay": 57,
-    "timeWeek": 108,
-    "timeMonth": 111,
-    "timeYear": 93,
-    "dailyMinutesDown": {
-      "2025-08-21": 114,
-      "2025-08-20": 241
-    }
   }
 ]
