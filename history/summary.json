@@ -4,19 +4,19 @@
     "url": "https://sujithq.github.io",
     "icon": "https://icons.duckduckgo.com/ip3/sujithq.github.io.ico",
     "slug": "sujith-quintelier",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.83%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 170,
-    "timeDay": 581,
-    "timeWeek": 386,
-    "timeMonth": 337,
+    "timeDay": 439,
+    "timeWeek": 360,
+    "timeMonth": 331,
     "timeYear": 194,
     "dailyMinutesDown": {
-      "2025-12-26": 0
+      "2025-12-26": 31
     }
   },
   {
