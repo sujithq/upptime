@@ -4,11 +4,11 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Sujith Quintelier
-    url: https://sujithq.github.io
+    url: https://quintelier.dev/
   - name: BDW
     url: https://bdw.nu
   - name: My Energy
-    url: https://sujithq.github.io/myenergy
+    url: https://energy.quintelier.dev/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
